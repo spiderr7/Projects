@@ -1,7 +1,7 @@
 # Projects
 
 1.Task #1 @Predict Success of a Zomato Restaurant :
- Develop an AI model to predict whether Restaurant can be success or not..
+ Develop an ML model to predict whether Restaurant can be success or not..
 
 2.Task #2 @Predict whether News is Fake or not:
  Develop a Machine Learning Model that can predict whether particular news is fake or not
